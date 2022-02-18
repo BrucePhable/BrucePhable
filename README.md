@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on a DevOps Change Management startup called [Merkely](https://www.merkely.com/)!
 <p>&nbsp;</p>
-
--   💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/bruce-a-johnston/)
+   💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/bruce-a-johnston/)
 
 -   🐦  Hear me scream into the void at [Twitter](https://twitter.com/Eoinel_)
 
