@@ -16,6 +16,8 @@ Find out about [Merkely](https://www.merkely.com/) and DevOps Change Management 
 
 -   [What the FCA found when analyzing 1 million production changes](https://www.merkely.com/blog/what-the-fca-found-when-analysing-1-million-production-changes/)
 
+Or check out my interviews with Jan!
+
 -   [The Jan Bosch Interview: The Future for Technology Companies](https://www.merkely.com/blog/the-jan-bosch-interview-the-future-for-technology-companies/)
 
 -   [The Jan Bosch Interview: Software Innovation in Embedded and Regulated Systems](https://www.merkely.com/blog/the-jan-bosch-interview-software-innovation-in-embedded-and-regulated-systems/)
