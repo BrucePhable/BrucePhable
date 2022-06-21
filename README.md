@@ -6,9 +6,9 @@
 
 -   🐦  Hear me scream into the void at [Twitter](https://twitter.com/Eoinel_)
 
--   📫  Email me <bruce@mkosli.com>
+-   📫  Email me <bruce@kosli.com>
 
-Find out about [Merkely](https://www.kosli.com/) and DevOps Change Management in my blogs
+Find out about [Kosli](https://www.kosli.com/) and DevOps Change Management in my blogs
 
 -   [How regulated teams can avoid the DevOps Lite trap with DevOps Change Management](https://www.kosli.com/blog/how-to-avoid-the-devops-lite-trap-with-devops-change-management/)
 
